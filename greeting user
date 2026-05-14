@@ -1,2 +1,5 @@
 # greeting-user
 It is a simple code used to greet a user with python programming languaage
+
+name=inpu("What is your name?")
+printf(f"Hello, {name}! Nice to meet you.")
